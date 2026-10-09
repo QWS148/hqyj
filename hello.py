@@ -7,3 +7,4 @@ def d1(n):
 num = int(input("zhangsan"))
 print(d1(num))
 print("hello world")
+print("hello world")
