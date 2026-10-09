@@ -6,3 +6,4 @@ def d1(n):
     return n * d1(n-1)
 num = int(input("zhangsan"))
 print(d1(num))
+print("hello world")
